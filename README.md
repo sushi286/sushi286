@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @sushi286
-- 👀 I’m interested in .coding and ai.
-- 🌱 I’m in college.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her...
-- ⚡ Fun fact
+# 👋 Hi, I'm Khushii (@sushi286)
+🎓 Computer Science student  
+💻 Interested in AI, cybersecurity and software development  
+🚀 Currently building projects and participating in hackathons  
+
+## 🔧 Tech I'm Learning
+- C++
+- Python
+- Android Development
+- Git & GitHub
+- Basic Web Development
+
+## 🌱 Currently Learning
+- AI & ML 
+- Android App Development
+- System Design basics
+
+## 📫 How to Reach Me
+- GitHub: https://github.com/sushi286
+
+Always learning, building, and experimenting✨
 
 <!---
 sushi286/sushi286 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
