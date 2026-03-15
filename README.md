@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Khushii (@sushi286)
-🎓 Computer Science student  
-💻 Interested in AI, cybersecurity and software development  
-🚀 Currently building projects and participating in hackathons  
+👋 Hi, I'm Khushii (@sushi286)
+🎓A Computer Science student whos interested in AI, cybersecurity and software development  
+ Currently building projects and participating in hackathons.
 
  🔧Tech I'm Learning
 - C++
