@@ -3,14 +3,14 @@
 💻 Interested in AI, cybersecurity and software development  
 🚀 Currently building projects and participating in hackathons  
 
-## 🔧 Tech I'm Learning
+ 🔧Tech I'm Learning
 - C++
 - Python
 - Android Development
 - Git & GitHub
 - Basic Web Development
 
-## 🌱 Currently Learning
+🌱 Currently Learning
 - AI & ML 
 - Android App Development
 - System Design basics
